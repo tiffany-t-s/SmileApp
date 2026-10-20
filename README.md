@@ -1,14 +1,4 @@
 ## Tiffany Semexant
-### Computer Science Major
-------------------------
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pW2l1S3G)
-Smile App Starter Code - includes tests
-
-Requirements.txt is updated on October 2025
-
-Includes all tests (unittest, pytest, selenium)
-
 ------------------------
 ## Running the application
 -----------------------
